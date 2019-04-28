@@ -6,4 +6,5 @@ javascript  to swipe right on tinder
 2. using inspect(ctrl+shift+i) navigate to console
 3. copy and paste the available js code in the console and press and enter.
 
+NOTE: This file contains multiple version of the code with added functionality.
 
